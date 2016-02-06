@@ -4,7 +4,7 @@ We use this image at [Juicymo](http://www.juicymo.cz) when we derive new more sp
 
 ## Installation
 
-Compiled Docker image can be pulled from: TBD
+Compiled Docker image can be pulled from: [Docker Hub](https://hub.docker.com/r/juicymo/drone-base/).
 
 ## About
 
