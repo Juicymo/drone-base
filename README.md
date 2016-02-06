@@ -21,3 +21,5 @@ This image currently installs:
 * ruby 2.2.2
 
 More ruby versions or other software can be added by use of additional images derived from this one instead (like [juicymo/drone-ruby](https://github.com/Juicymo/drone-ruby) for Ruby CI).
+
+See source at [GitHub](https://github.com/Juicymo/drone-base).
