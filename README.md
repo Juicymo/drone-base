@@ -1,6 +1,6 @@
 # Juicymo Drone CI base image
 
-We use this image at [Juicymo](http://www.juicymo.cz) when we derive new more specialized Drone CI images from it (like [juicymo/drone-ruby]).
+We use this image at [Juicymo](http://www.juicymo.cz) when we derive new more specialized Drone CI images from it (like [juicymo/drone-ruby](https://github.com/Juicymo/drone-ruby)).
 
 ## Installation
 
