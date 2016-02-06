@@ -2,6 +2,8 @@
 
 We use this image at [Juicymo](http://www.juicymo.cz) when we derive new more specialized Drone CI images from it (like [juicymo/drone-ruby](https://github.com/Juicymo/drone-ruby)).
 
+[![](https://badge.imagelayers.io/juicymo/drone-base:latest.svg)](https://imagelayers.io/?images=juicymo/drone-base:latest 'Get your own badge on imagelayers.io')
+
 ## Installation
 
 Compiled Docker image can be pulled from: [Docker Hub](https://hub.docker.com/r/juicymo/drone-base/).
